@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "name": "Sailor Moon",
+        "image": "./images/Sailor Moon.png"
+    },
+    {
+        "id": 2,
+        "name": "Sailor Mercury",
+        "image": "./images/Sailor Mercury.png"
+    },
+    {
+        "id": 3,
+        "name": "Sailor Venus",
+        "image": "./images/Sailor Venus.png"
+    },
+    {
+        "id": 4,
+        "name": "Sailor Mars",
+        "image": "./images/Sailor Mars.png"
+    },
+    {
+        "id": 5,
+        "name": "Sailor Jupiter",
+        "image": "./images/Sailor Jupiter.png"
+    
+    },
+    {
+        "id": 6,
+        "name": "Sailor Saturn",
+        "image": "./images/Sailor Saturn.png"
+    },
+    {
+        "id": 7,
+        "name": "Sailor Uranus",
+        "image": "./images/Sailor Uranus.png"
+    },
+    {
+        "id": 8,
+        "name": "Sailor Neptune",
+        "image": "./images/Sailor Neptune.png"
+    },
+    {
+        "id": 9,
+        "name": "Sailor Pluto",
+        "image": "./images/Sailor Pluto.png"
+    },
+    {
+        "id": 10,
+        "name": "Sailor Chibi Moon",
+        "image": "./images/Sailor Chibi Moon.png"
+    }
+]

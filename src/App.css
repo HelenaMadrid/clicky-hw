@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  background-image: url(https://i.pinimg.com/originals/56/b8/57/56b85731b7307979518758068d7d8c58.jpg);
+  background-size: contain;
 }
 
 .App-logo {
