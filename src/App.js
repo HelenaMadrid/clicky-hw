@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 //import logo from './logo.svg';
 import Card from "./components/Card";
 import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
 import Container from "./components/Container";
 import Row from "./components/Row";
 import cards from "./cards.json";
