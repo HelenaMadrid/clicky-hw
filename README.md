@@ -1,3 +1,7 @@
+### Sailor Moon Clicky Game
+
+Deployed in Heroku at: https://clicky-hw.herokuapp.com
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
